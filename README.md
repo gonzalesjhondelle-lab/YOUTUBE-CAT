@@ -9,3 +9,6 @@ Install the companion before loading the Chrome extension.
 
 
 Visit this website for: Youtube link parse - https://ytdlfree.ai.studio/
+
+
+Tutorial link: https://drive.google.com/file/d/1gmHMkdRNYhadBScfSfrb9fKvavxoHio0/view?usp=sharing
